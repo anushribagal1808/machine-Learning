@@ -1,5 +1,5 @@
 # machine-Learning
-this project  is Credit  Card detection 
+this project  is Credit  Card  Fraud detection 
 
 Step 1: Importing necessary Libraries
 We begin by importing the necessary Python libraries: numpy, pandas, matplotlib and seaborn for data handling, visualization and model building.
